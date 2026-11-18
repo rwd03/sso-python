@@ -1,0 +1,4 @@
+/credentials.json
+/inventory_credentials.json
+/client_secret_*.json
+__pycache__/
